@@ -1,0 +1,8 @@
+Step by Step guide react
+1 - Install Vite.
+2 - Create a app using Vite
+3 - Create react app enviorment
+4 - Understand folder structure
+
+Component in react is just a function in js which is return the JSX.
+JSX - is same as html but it has some better advantages then html.
