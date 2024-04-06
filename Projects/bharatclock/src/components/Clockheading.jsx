@@ -1,6 +1,6 @@
 function Clockheading(){
-     return(<div>
-          <h1 className="text-center">Bharat Clock</h1>
+     return(<div className="container bg-success py-2 border">
+          <h1 className="text-center"><strong className="text-light">BHARAT CLOCK</strong></h1>
      </div>)
 
 }
